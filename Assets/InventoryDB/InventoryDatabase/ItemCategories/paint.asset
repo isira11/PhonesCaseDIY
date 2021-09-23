@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a44df922c40df4fa80e23de1480e3f, type: 3}
+  m_Name: paint
+  m_EditorClassIdentifier: 
+  m_ID: 2263281869
+  m_ParentsData:
+    m_ObjectType: Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemCategory,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+    m_ValueHashes: 4c1e4f8eedcfa3275d5b8146e85a8146
+    m_ValuePositions: 0000000004000000080000000c000000
+    m_Values: 02000000020000000000000001000000
+    m_UnityObjects:
+    - {fileID: 11400000, guid: d709e010e80b94038a861d690df1871d, type: 2}
+    - {fileID: 11400000, guid: 69b20515f707d4c669cd3ca6606c29df, type: 2}
+    m_Version: 3.1
+  m_ChildrenData:
+    m_ObjectType: Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemCategory,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+    m_ValueHashes: 4c1e4f8eedcfa327
+    m_ValuePositions: 0000000004000000
+    m_Values: 0000000000000000
+    m_UnityObjects: []
+    m_Version: 3.1
+  m_ElementsData:
+    m_ObjectType: Opsive.Shared.Utility.ResizableArray`1[[Opsive.UltimateInventorySystem.Core.ItemDefinition,
+      Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+    m_ValueHashes: 4c1e4f8ec233006407c1b58994c2b589e1ccb5896eceb589fbcfb58948c9b589d5cab58922d4b589afd5b5893cd7b58989d0b58916d2b58963dcb589f0ddb5897ddfb589cad8b58957dab589a4dbb58931e5b589bee6b5890be0b58998e1b589e5e3b58972edb589ffeeb5894ce8b589d9e9b58926ebb589b3f4b58900f6b5898df7b5891af1b58967f3b589f4fcb58941feb589ceffb5895bf9b589a8fab589
+    m_ValuePositions: 0000000004000000080000000c0000001000000014000000180000001c0000002000000024000000280000002c0000003000000034000000380000003c0000004000000044000000480000004c0000005000000054000000580000005c0000006000000064000000680000006c0000007000000074000000780000007c0000008000000084000000880000008c0000009000000094000000980000009c000000
+    m_Values: 2600000026000000000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000
+    m_UnityObjects:
+    - {fileID: 11400000, guid: 5a12222f6ae294d00a571a09ef0d9267, type: 2}
+    - {fileID: 11400000, guid: 236c64f48ee4f42d2b856a32e2025b37, type: 2}
+    - {fileID: 11400000, guid: abb4155dd9ecb4c97a046eaa1939c3e4, type: 2}
+    - {fileID: 11400000, guid: b4e09cabb912545b3a30b6bed9d0ded9, type: 2}
+    - {fileID: 11400000, guid: 2c72deb83d3aa4754bcc75bc37731ba0, type: 2}
+    - {fileID: 11400000, guid: a513efd94cb9946588dd03e9c689e12c, type: 2}
+    - {fileID: 11400000, guid: 3de1fb6169591489ba14f1cf02080d75, type: 2}
+    - {fileID: 11400000, guid: 090daf5136d674b008ef991439aacaa5, type: 2}
+    - {fileID: 11400000, guid: 3d26236c380434e518dcf3715cc9032d, type: 2}
+    - {fileID: 11400000, guid: b1afe7cadeb624883a5b486deafa1665, type: 2}
+    - {fileID: 11400000, guid: 5a6e3b480fe50457fa8d2d9fbe69c77c, type: 2}
+    - {fileID: 11400000, guid: e049fe5343b5d451a8827c28c41de34d, type: 2}
+    - {fileID: 11400000, guid: fb55099b566784db59e2a727de10c30d, type: 2}
+    - {fileID: 11400000, guid: c1dbd293819a04c9681cc4530455554b, type: 2}
+    - {fileID: 11400000, guid: f793ad06284c845f59aebfc74d52b8a5, type: 2}
+    - {fileID: 11400000, guid: 113693b0055dc41da8e1b4dd3d31c2af, type: 2}
+    - {fileID: 11400000, guid: adda71091262348d2ba0201ce574ee42, type: 2}
+    - {fileID: 11400000, guid: cfdf4d20f018d4e949c24aae1a0e6437, type: 2}
+    - {fileID: 11400000, guid: d3624968f30b64e14ba0c78c57c3ec8b, type: 2}
+    - {fileID: 11400000, guid: f8be0d58e69bb4b5c88c5aced20e40b4, type: 2}
+    - {fileID: 11400000, guid: f71e6aa323b51494cb0ee33a76e9bf65, type: 2}
+    - {fileID: 11400000, guid: 06149c93458644fcd9423a3ed6e211dc, type: 2}
+    - {fileID: 11400000, guid: 394b6d452a27f47f3aab6883aff7b03d, type: 2}
+    - {fileID: 11400000, guid: 0e6a0a30be41d4bf08db03c6adf7172b, type: 2}
+    - {fileID: 11400000, guid: 64bed883625cc4bd1a8a4140d200a4dd, type: 2}
+    - {fileID: 11400000, guid: e47772c1edd6242be89776e0dfa6772a, type: 2}
+    - {fileID: 11400000, guid: d2ef2e5adac764591b09377dd0eb5a2f, type: 2}
+    - {fileID: 11400000, guid: 0f4a88cc85837483c9b4eba7acf95a7d, type: 2}
+    - {fileID: 11400000, guid: 43b82e8e1f48d416696257aac88bfa6e, type: 2}
+    - {fileID: 11400000, guid: 8cee9bdcc6b384bd5b6de6a0599b2c62, type: 2}
+    - {fileID: 11400000, guid: 479030ea476e1414bb67ecb751768ac8, type: 2}
+    - {fileID: 11400000, guid: 8c8ae00f5e5024e6a97b5df7b50b9192, type: 2}
+    - {fileID: 11400000, guid: 73dfc3a7a9db8424b9625149d41d44ad, type: 2}
+    - {fileID: 11400000, guid: ea4dfe3fe4dbc49d0abb0b801873e368, type: 2}
+    - {fileID: 11400000, guid: 79c1d8da2be9d4187a70fce430a82c09, type: 2}
+    - {fileID: 11400000, guid: 793c577e9dd5f4103a0d7476e7801290, type: 2}
+    - {fileID: 11400000, guid: 321cd5b5ac2a740cab96001e8bd5218a, type: 2}
+    - {fileID: 11400000, guid: c17bf9a8c751b4fad9985e70ad514ce2, type: 2}
+    m_Version: 3.1
+  m_IsAbstract: 0
+  m_Color: {r: 0.8235294, g: 0.15686274, b: 0.54353666, a: 1}
+  m_EditorIcon: {fileID: 0}
+  m_ItemCategoryAttributeCollection:
+    m_AttributeCollectionData:
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4abbc6d22cff986c99
+      m_ValuePositions: 000000000b0000000c0000000c00000010000000100000001400000018000000
+      m_Values: 6361745f75695f73686f70010000000095045e40ffffffff00000000
+      m_UnityObjects:
+      - {fileID: 4158282360467360508, guid: 62eeb60f984ed4a008c3d01c14d02377, type: 3}
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4abbc6d22cff986c99
+      m_ValuePositions: 000000000600000007000000070000000b0000000b0000000f00000013000000
+      m_Values: 6361745f756901000000007b3ae5aeffffffff00000000
+      m_UnityObjects:
+      - {fileID: 8792707725065872291, guid: 1a1810a520ba641a9b9604254af0c409, type: 3}
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.Texture,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4a29c6770d6d98117a
+      m_ValuePositions: 000000000800000009000000090000000d0000000d0000001100000015000000
+      m_Values: 6361745f69636f6e0100000000e1ad27a0ffffffffffffffff
+      m_UnityObjects: []
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4a95fdf7a7d9cf9114
+      m_ValuePositions: 000000000800000009000000090000000d0000000d0000001100000017000000
+      m_Values: 6361745f6e616d650101000000d7ddff26436f6c6f7273436f6c6f7273
+      m_UnityObjects: []
+      m_Version: 3.1
+  m_RequiredItemDefinitionAttributes:
+    m_AttributeCollectionData:
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4abbc6d22cff986c99
+      m_ValuePositions: 000000000c0000000d0000000d00000011000000110000001500000019000000
+      m_Values: 6974656d5f75695f73686f7001000000000b71db4dffffffff00000000
+      m_UnityObjects:
+      - {fileID: 2541601073567511407, guid: 7168846591eac4289a96b19ab83dbcdb, type: 3}
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4abbc6d22cff986c99
+      m_ValuePositions: 000000000700000008000000080000000c0000000c0000001000000014000000
+      m_Values: 6974656d5f75690100000000ae07ddcaffffffff00000000
+      m_UnityObjects:
+      - {fileID: 2559206369959421502, guid: 67ca2112e0cd94b14bfc7eaf0990e2ac, type: 3}
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4abbc6d22cff986c99
+      m_ValuePositions: 000000000b0000000c0000000c00000010000000100000001400000018000000
+      m_Values: 707265766965775f6f626a0101000000e0e805250000000001000000
+      m_UnityObjects:
+      - {fileID: 2086221840292849546, guid: 31fab52d22e9f4cdea64d84166190be7, type: 3}
+      - {fileID: 2086221840292849546, guid: 31fab52d22e9f4cdea64d84166190be7, type: 3}
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4a95fdf7a7d9cf9114
+      m_ValuePositions: 00000000090000000a0000000a0000000e0000000e0000001200000017000000
+      m_Values: 6974656d5f6e616d6501010000005f73897c636f6c6f72636f6c6f72
+      m_UnityObjects: []
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4a424b280f861dc27b
+      m_ValuePositions: 000000000a0000000b0000000b0000000f0000000f0000001300000017000000
+      m_Values: 6974656d5f6c6576656c010000000083c3ea190000000000000000
+      m_UnityObjects: []
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[Opsive.UltimateInventorySystem.Exchange.CurrencyAmounts,
+        Opsive.UltimateInventorySystem, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4a00874d3281651b554558847146869dbad091b7f84459e79ef550e43ba1bfe96bea49dfe97c5ef5ab
+      m_ValuePositions: 000000000800000009000000090000000d0000000d00000011000000110000001500000015000000190000001d0000001d000000210000002100000025000000
+      m_Values: 427579507269636501010000007506944501000000c7000000ffffffff01000000c7000000ffffffff
+      m_UnityObjects: []
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.Color,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4af1d4754a35a70fb7
+      m_ValuePositions: 000000000a0000000b0000000b0000000f0000000f0000001300000023000000
+      m_Values: 6974656d5f636f6c6f7201000000003d268f31000000000000000000000000000000000000803f0000803f0000803f0000803f
+      m_UnityObjects: []
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4abbc6d22cff986c99
+      m_ValuePositions: 00000000090000000a0000000a0000000e0000000e0000001200000016000000
+      m_Values: 636f6c6f725f6f626a0101000000599f2af4ffffffffffffffff
+      m_UnityObjects: []
+      m_Version: 3.1
+    - m_ObjectType: Opsive.UltimateInventorySystem.Core.AttributeSystem.Attribute`1[[UnityEngine.Sprite,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]
+      m_ValueHashes: 0d00eb255b713f72086efd3934ebab2af446621ba8823c4aaf0255e0f3d4ee4c
+      m_ValuePositions: 00000000090000000a0000000a0000000e0000000e0000001200000016000000
+      m_Values: 6974656d5f69636f6e010000000083e229daffffffff00000000
+      m_UnityObjects:
+      - {fileID: 21300000, guid: 6355a2afc6fb71a449d51c2f9be20fd3, type: 3}
+      m_Version: 3.1
+  m_RequiredItemAttributes:
+    m_AttributeCollectionData: []
+  m_IsMutable: 1
+  m_IsUnique: 1
